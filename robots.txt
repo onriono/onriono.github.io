@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onriono.github.io/sitemap
+Sitemap: https://onriono.github.io/app/sitemap
+Sitemap: https://onriono.github.io/assets/sitemap
+Sitemap: https://onriono.github.io/css/sitemap
+Sitemap: https://onriono.github.io/includes/sitemap
+Sitemap: https://onriono.github.io/item/sitemap
+Sitemap: https://onriono.github.io/src/sitemap
